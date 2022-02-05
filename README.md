@@ -1,6 +1,6 @@
-# login_email
+# login_google
 
-A login email project.
+A login google project.
 
 ## Getting Started
 
